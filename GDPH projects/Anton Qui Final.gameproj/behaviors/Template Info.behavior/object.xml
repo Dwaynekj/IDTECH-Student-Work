@@ -1,0 +1,31 @@
+<behavior PGFVersion="0.1" class="CompoundBehavior" id="id922175">
+  <attributes>
+    <text id="name">Template Info</text>
+    <text id="bundleName">Group.behavior</text>
+  </attributes>
+  <behaviors>
+    <behavior id="id697642" class="DisplayTextBehavior">
+      <attributes>
+        <text id="name">Display Text</text>
+        <text id="bundleName">DisplayText.behavior</text>
+        <text id="text">There are no behaviors on these actors. Why don&apos;t you add some?</text>
+        <text id="font">Geneva</text>
+        <real id="size">14</real>
+        <real id="alignment">1</real>
+        <color id="color">
+          <real id="red">1</real>
+          <real id="green">0</real>
+          <real id="blue">0</real>
+          <real id="alpha">1</real>
+        </color>
+      </attributes>
+    </behavior>
+    <behavior id="id669097" class="NoteBehavior">
+      <attributes>
+        <text id="name">Note</text>
+        <text id="bundleName">Note.behavior</text>
+        <text id="note">To get ideas on how to add interactivity to this template, visit the Creator site at www.gamesalad.com/support</text>
+      </attributes>
+    </behavior>
+  </behaviors>
+</behavior>

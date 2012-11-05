@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<behavior PGFVersion="0.17" id="id796949" class="MoveToBehavior" GSCVersion="0.9.5" enabled="true"><attributes><text id="name">Move To</text><text id="bundleName">MoveTo.behavior</text><boolean id="runToCompletion">true</boolean><point id="position"><real id="x">277</real><real id="y">166</real></point><index id="space">1</index><real id="speed">3.01205</real></attributes></behavior>

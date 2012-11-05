@@ -1,0 +1,5 @@
+<info PGFVersion="0.1">
+  <Interface>GroupBehavior</Interface>
+  <ControllerClass>GSGroupBehaviorViewController</ControllerClass>
+  <DisplayName>Template Info</DisplayName>
+</info>
